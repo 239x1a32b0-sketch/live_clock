@@ -1,4 +1,4 @@
-# Indian Standard Time Clock 🇮🇳
+# Indian Standard Time Clock 
 
 ### [🔴 Live Demo](https://live-clock-6e3f.onrender.com)
 
