@@ -1,4 +1,6 @@
-# Indian Standard Time Clock 
+# Indian Standard Time Clock 🇮🇳
+
+### [🔴 Live Demo](https://live-clock-6e3f.onrender.com)
 
 A visually stunning web application that displays real-time **Indian Standard Time (IST)** in both **Analog** and **Digital** formats. This project showcases modern web design techniques including glassmorphism, smooth animations, and responsive layout.
 
