@@ -1,8 +1,8 @@
-# Indian Standard Time Clock 🇮🇳
+# Indian Standard Time Clock 
 
 A visually stunning web application that displays real-time **Indian Standard Time (IST)** in both **Analog** and **Digital** formats. This project showcases modern web design techniques including glassmorphism, smooth animations, and responsive layout.
 
-## ✨ Features
+## Features
 
 - **Dual Clock Display**: 
   - **Analog Clock**: Features smooth, continuous hand movements (60fps) synchronized to the exact millisecond.
@@ -15,7 +15,7 @@ A visually stunning web application that displays real-time **Indian Standard Ti
   - **Neon Glows**: Styling accents with neon colors and shadows.
 - **Responsive Design**: Fully responsive layout that adapts gracefully to mobile and desktop screens.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Semantic structure.
 - **CSS3**: 
@@ -27,7 +27,7 @@ A visually stunning web application that displays real-time **Indian Standard Ti
   - `requestAnimationFrame` for high-performance rendering.
   - `Intl.DateTimeFormat` for accurate time zone handling.
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Clone or Download** the repository.
 2.  **Open** the `index.html` file in any modern web browser (Chrome, Firefox, Safari, Edge).
