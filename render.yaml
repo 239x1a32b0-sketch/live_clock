@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: live-clock
+    env: static
+    # Directory containing the static site files (relative to repository root)
+    staticPublishPath: ./
+    # Branch to deploy
+    branch: master
+    # No build command needed for simple HTML/CSS/JS
+    buildCommand: ""
